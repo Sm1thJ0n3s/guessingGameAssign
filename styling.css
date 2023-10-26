@@ -1,0 +1,76 @@
+div{
+    width: 700px;
+    height: 550px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 20px;;
+    background-color: darksalmon;
+}
+
+input{
+    display: block;
+    margin: 20px auto 15px;
+    height: 5%;
+    width: 5%;
+    border-radius: 0%;
+    text-align: center;
+}
+
+button{
+    display: block;
+    margin: 35px auto 25px;
+    height: 2rem;
+    width: 12%;
+    border-radius: 24px;
+}
+
+img{
+    height: 6%;
+    width: 5%;
+    float: right;
+    margin: 170px 5px 0px 0px;
+}
+
+section{
+    width:20%;
+}
+
+.inline{
+    display: inline;
+}
+
+.centered{
+    text-align: center;
+}
+
+.gameChanges{
+    height: 13.7rem;
+    width: 36.25rem;
+    text-align: center;
+    border-color:rgb(0, 0, 0);
+}
+.gameModeChanges{
+    height:4.5rem;
+    width:12em;
+    text-align: center;
+    margin:0px;
+}
+
+.textVerbalMeanings{
+    font-size:1.2rem;
+    color: rgb(0, 0, 0);
+}
+
+.floatLeft{
+    float:left;
+}
+
+.changesButtons{
+    color:rgb(0, 234, 255);
+    background-color: rgb(255, 0, 0);
+    border-color: rgb(114, 113, 113);
+    margin: 10px auto;
+    font-size: 0.75rem;
+    width:40px;
+    height:20px;
+}
